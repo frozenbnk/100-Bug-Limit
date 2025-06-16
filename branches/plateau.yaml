@@ -1,0 +1,67 @@
+- SOR:
+    comment: Don't clip
+    icon: sor
+    notes: Grab slate, open door, watch opening CS
+- Grab Axe:
+    icon: equipment
+    coord: [-905.5, 1866.5]
+- _Material<Hightail lizard>:
+    coord: [-897.25,1860.25]
+- _Korok::P10
+- _Material<Apple,2>:
+    coord: [-853.17, 207.49, 1823.53]
+    notes: Can be grab after in crates
+- Get quest from .npc(Zelda):
+    coord: [-792.5, 1798.5]
+- Boko Bow:
+    icon: bow
+    notes: Grab 5 arrows or more
+    coord: [-622.25, 1743.5]
+- Boko Shield + Sword:
+    icon: equipment
+    notes: If he drops arrows, get them
+    coord: [-583.5, 1701]
+- _Tower::GreatPlateau:
+    notes: Fall damage cancel off into old man CS
+- _Shrine::OmanAu:
+    comment: Sprint over
+- _Material<Hyrule Herb,5>:
+    coord: [-706.125, 1482.875]
+- _Korok::P01
+- Grab fire + ice arrows:
+    icon: chest
+    coord: [-777.625, 1558.9375]
+- _Korok::P02
+- _Warp::SOR
+- _Material<Hylian Shroom,3>:
+    notes: Left of SOR
+    coord: [-1067.75, 1805.25]
+- _Korok::P08:
+    notes: Can get this later (extra warp)
+- _Shrine::KehNamut:
+    notes: Climb up from north side
+- _Korok::P15
+- _Korok::P16:
+    notes: Lift slab with axe
+- _Korok::P17
+- Iron Sledgehammer:
+    icon: equipment
+    notes: For ores, taluses, and tree launches
+    coord: [-961, 2321]
+- _Shrine::OwaDaim:
+    comment: Get hammer inside
+- Traveller's Bow:
+    icon: bow
+    coord: [-948.25, 2331]
+- Boulder Launch off cliff:
+    coord: [-945,2324]
+- Tree Launch to Bombs:
+    coord: [-676,2121]
+- _Shrine::JaBaij
+- Tree Launch up to ToT:
+    coord: [-644,2076]
+- Paraglider:
+    comment: from Old Man
+    icon: king
+    counter: custom-item
+    coord: [-813, 1966.75]
